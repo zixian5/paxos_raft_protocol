@@ -27,6 +27,7 @@ Leslie Lamport（Paxos之父）论文《The Part-Time Parliament》、《Paxos M
 [>> 译文](paxos/paxos_zh.pptx)
 
 [>> 原文](paxos/paxos.pptx)
+https://zhuanlan.zhihu.com/p/29678067
 
 该 PPT 深入分析了 Paxos 的设计原理，并以日志复制同步（Replicated Logs）为背景，详细介绍如何使用 Paxos 协议实现日志复制同步系统。
 这也是我所遇到的讲解 Paxos 最为详尽的一份不可多得的资料。
